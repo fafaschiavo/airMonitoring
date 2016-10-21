@@ -2,7 +2,7 @@ int air_speed = A0;
 int co_concentration = A1;
 int co2_concentration = A2;
 int ledPin = 13;      // select the pin for the LED
-int sensorValue = 0;  // variable to store the value coming from the sensor
+int sensorValue = 0;  // variable to store the value coming from the sensorValue
 int air_speed_value;
 int co_concentration_value;
 int co2_concentration_value;
